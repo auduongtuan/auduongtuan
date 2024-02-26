@@ -7,10 +7,10 @@ My name is Tuan. I'm a UX designer/engineer that aspires to craft compelling sof
 💬 Or contact me via hi@auduongtuan.com
 
 
-<a href="https://github.com/auduongtuan/github-readme-stats">
+<a href="https://github.com/auduongtuan/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=auduongtuan" />
 </a>
 
-<a href="https://github.com/auduongtuan/convoychat">
+<a href="https://github.com/auduongtuan/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auduongtuan&layout=compact&langs_count=8&card_width=320" />
 </a>

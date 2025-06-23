@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tuan. I'm a UX designer/engineer that aspires to craft compelling software.
+My name is Tuan. I'm a software designer/engineer that aspires to craft compelling products.
 
 👨‍💻 You can view more about me via portfolio/website: https://auduongtuan.com
 
